@@ -173,9 +173,9 @@ rm -rf ~/.local/share/gnome-shell/extensions/LogtimeWidget@zsonie
 
 ## Privacy & Security
 
-- Your [translate:Intra42] credentials are **never stored** by this extension  
+- Your Intra42 credentials are **never stored** by this extension  
 - Session cookies are stored locally in your home directory  
-- Cookies are only used to fetch your [translate:logtime] data  
+- Cookies are only used to fetch your logtime data  
 - No data is sent to external servers (except profile.intra.42.fr)
 
 ## License
@@ -184,9 +184,11 @@ There's no License, come on.
 
 ## Credits
 
-- Developed by zsonie  
-- Inspired by [translate:42 School]'s monthly [translate:logtime] requirements  
+- Developed by zsonie
 - Built with GNOME Shell Extension APIs
+- Python
+- CSS
+- JS
 
 ## Support
 
@@ -194,4 +196,4 @@ For issues, questions, or feature requests, please open an issue on the project 
 
 ---
 
-**Note**: This extension is not officially affiliated with or endorsed by [translate:42 School].
+**Note**: This extension is not officially affiliated with or endorsed by any 42 School.
